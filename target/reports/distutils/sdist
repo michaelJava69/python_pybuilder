@@ -1,0 +1,33 @@
+running clean
+'build/lib.linux-x86_64-2.7' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-2.7' does not exist -- can't clean it
+running sdist
+running egg_info
+creating MyProject.egg-info
+writing MyProject.egg-info/PKG-INFO
+writing namespace_packages to MyProject.egg-info/namespace_packages.txt
+writing top-level names to MyProject.egg-info/top_level.txt
+writing dependency_links to MyProject.egg-info/dependency_links.txt
+writing manifest file 'MyProject.egg-info/SOURCES.txt'
+reading manifest file 'MyProject.egg-info/SOURCES.txt'
+writing manifest file 'MyProject.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating MyProject-1.0
+creating MyProject-1.0/MyProject.egg-info
+copying files to MyProject-1.0...
+copying example_hello.py -> MyProject-1.0
+copying example_primes.py -> MyProject-1.0
+copying setup.py -> MyProject-1.0
+copying MyProject.egg-info/PKG-INFO -> MyProject-1.0/MyProject.egg-info
+copying MyProject.egg-info/SOURCES.txt -> MyProject-1.0/MyProject.egg-info
+copying MyProject.egg-info/dependency_links.txt -> MyProject-1.0/MyProject.egg-info
+copying MyProject.egg-info/namespace_packages.txt -> MyProject-1.0/MyProject.egg-info
+copying MyProject.egg-info/top_level.txt -> MyProject-1.0/MyProject.egg-info
+copying MyProject.egg-info/zip-safe -> MyProject-1.0/MyProject.egg-info
+Writing MyProject-1.0/setup.cfg
+creating dist
+Creating tar archive
+removing 'MyProject-1.0' (and everything under it)

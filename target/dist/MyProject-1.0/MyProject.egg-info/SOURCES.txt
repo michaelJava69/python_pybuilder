@@ -1,0 +1,9 @@
+example_hello.py
+example_primes.py
+setup.py
+MyProject.egg-info/PKG-INFO
+MyProject.egg-info/SOURCES.txt
+MyProject.egg-info/dependency_links.txt
+MyProject.egg-info/namespace_packages.txt
+MyProject.egg-info/top_level.txt
+MyProject.egg-info/zip-safe
