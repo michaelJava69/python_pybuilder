@@ -27,7 +27,7 @@ if __name__ == '__main__':
         author_email = 'michael.named@gmail.com',
         license = 'None',
         url = 'https://github.com/awwsmm/PybGit',
-        scripts = [],
+        scripts = ['scripts/example_hello_script.py'],
         packages = [],
         namespace_packages = [],
         py_modules = [

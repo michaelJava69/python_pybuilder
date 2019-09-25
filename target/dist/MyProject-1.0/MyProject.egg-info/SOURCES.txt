@@ -7,3 +7,4 @@ MyProject.egg-info/dependency_links.txt
 MyProject.egg-info/namespace_packages.txt
 MyProject.egg-info/top_level.txt
 MyProject.egg-info/zip-safe
+scripts/example_hello_script.py
