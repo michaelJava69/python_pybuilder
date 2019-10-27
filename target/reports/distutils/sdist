@@ -29,6 +29,7 @@ copying MyProject.egg-info/namespace_packages.txt -> MyProject-1.0/MyProject.egg
 copying MyProject.egg-info/top_level.txt -> MyProject-1.0/MyProject.egg-info
 copying MyProject.egg-info/zip-safe -> MyProject-1.0/MyProject.egg-info
 copying scripts/example_hello_script.py -> MyProject-1.0/scripts
+copying scripts/example_primes_script.py -> MyProject-1.0/scripts
 Writing MyProject-1.0/setup.cfg
 creating dist
 Creating tar archive

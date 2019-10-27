@@ -11,7 +11,9 @@ copying example_hello.py -> build/lib.linux-x86_64-2.7
 copying example_primes.py -> build/lib.linux-x86_64-2.7
 running build_scripts
 creating build/scripts-2.7
+copying and adjusting scripts/example_primes_script.py -> build/scripts-2.7
 copying and adjusting scripts/example_hello_script.py -> build/scripts-2.7
+changing mode of build/scripts-2.7/example_primes_script.py from 644 to 755
 changing mode of build/scripts-2.7/example_hello_script.py from 644 to 755
 installing to build/bdist.linux-x86_64/wheel
 running install
@@ -32,13 +34,16 @@ Copying MyProject.egg-info to build/bdist.linux-x86_64/wheel/MyProject-1.0-py2.7
 running install_scripts
 creating build/bdist.linux-x86_64/wheel/MyProject-1.0.data
 creating build/bdist.linux-x86_64/wheel/MyProject-1.0.data/scripts
+copying build/scripts-2.7/example_primes_script.py -> build/bdist.linux-x86_64/wheel/MyProject-1.0.data/scripts
 copying build/scripts-2.7/example_hello_script.py -> build/bdist.linux-x86_64/wheel/MyProject-1.0.data/scripts
+changing mode of build/bdist.linux-x86_64/wheel/MyProject-1.0.data/scripts/example_primes_script.py to 755
 changing mode of build/bdist.linux-x86_64/wheel/MyProject-1.0.data/scripts/example_hello_script.py to 755
 creating build/bdist.linux-x86_64/wheel/MyProject-1.0.dist-info/WHEEL
 creating 'dist/MyProject-1.0-py2-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
 adding 'example_hello.py'
 adding 'example_primes.py'
 adding 'MyProject-1.0.data/scripts/example_hello_script.py'
+adding 'MyProject-1.0.data/scripts/example_primes_script.py'
 adding 'MyProject-1.0.dist-info/METADATA'
 adding 'MyProject-1.0.dist-info/WHEEL'
 adding 'MyProject-1.0.dist-info/namespace_packages.txt'

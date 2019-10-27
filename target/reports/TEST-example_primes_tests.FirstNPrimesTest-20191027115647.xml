@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="example_primes_tests.py" name="example_primes_tests.FirstNPrimesTest-20191027115647" skipped="0" tests="2" time="0.002" timestamp="2019-10-27T11:56:47">
+	<testcase classname="example_primes_tests.FirstNPrimesTest" file="src/unittest/python/example_primes_tests.py" line="8" name="test_negFloatInput" time="0.001" timestamp="2019-10-27T11:56:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="example_primes_tests.FirstNPrimesTest" file="src/unittest/python/example_primes_tests.py" line="12" name="test_posIntInput" time="0.001" timestamp="2019-10-27T11:56:47">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>
