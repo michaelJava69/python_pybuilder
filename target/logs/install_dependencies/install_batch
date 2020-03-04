@@ -1,0 +1,11 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting mockito
+  Downloading mockito-1.2.1.tar.gz (23 kB)
+Building wheels for collected packages: mockito
+  Building wheel for mockito (setup.py): started
+  Building wheel for mockito (setup.py): finished with status 'done'
+  Created wheel for mockito: filename=mockito-1.2.1-py3-none-any.whl size=29383 sha256=d57e0d254d2e4656bf8220f0d492854e5e63f392f3568c36e53e29248dde9f19
+  Stored in directory: /home/michael/.cache/pip/wheels/2b/97/74/8b4b5e9d0a919dfe7a9ffcfe6c0e39ba9fe1055f04829db7a5
+Successfully built mockito
+Installing collected packages: mockito
+Successfully installed mockito-1.2.1

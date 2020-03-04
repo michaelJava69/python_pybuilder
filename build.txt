@@ -1,0 +1,32 @@
+
+https://dev.to/awwsmm/managing-your-python-project-with-git-and-pybuilder-21if
+
+# ubuntu 18.0.3
+
+
+sudo apt-get install python3-pip
+python3 -m pip install --user --upgrade pip
+python3 -m pip install --user virtualenv
+
+issues
+#####
+The script virtualenv is installed in `/home/andrew/.local/bin` which is not on PATH.
+Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+You 
+
+Then reboot
+
+git clone https://github.com/michaelJava69/python_pybuilder.git
+cd pybuilder......
+
+source env/bin/activate
+pip install pybuilder
+
+ls
+tree src/
+
+pyb
+pyb install_dependencies
+
+
+

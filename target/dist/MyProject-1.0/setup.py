@@ -28,14 +28,14 @@ if __name__ == '__main__':
         license = 'None',
         url = 'https://github.com/awwsmm/PybGit',
         scripts = [
-            'scripts/example_primes_script.py',
-            'scripts/example_hello_script.py'
+            'scripts/example_hello_script.py',
+            'scripts/example_primes_script.py'
         ],
         packages = [],
         namespace_packages = [],
         py_modules = [
-            'example_hello',
-            'example_primes'
+            'example_primes',
+            'example_hello'
         ],
         classifiers = [
             'Development Status :: 3 - Alpha',
