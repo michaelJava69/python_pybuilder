@@ -1,14 +1,14 @@
 running clean
-'build/lib' does not exist -- can't clean it
+'build/lib.linux-x86_64-2.7' does not exist -- can't clean it
 'build/bdist.linux-x86_64' does not exist -- can't clean it
-'build/scripts-3.6' does not exist -- can't clean it
+'build/scripts-2.7' does not exist -- can't clean it
 running sdist
 running egg_info
 creating MyProject.egg-info
 writing MyProject.egg-info/PKG-INFO
-writing dependency_links to MyProject.egg-info/dependency_links.txt
 writing namespace_packages to MyProject.egg-info/namespace_packages.txt
 writing top-level names to MyProject.egg-info/top_level.txt
+writing dependency_links to MyProject.egg-info/dependency_links.txt
 writing manifest file 'MyProject.egg-info/SOURCES.txt'
 reading manifest file 'MyProject.egg-info/SOURCES.txt'
 writing manifest file 'MyProject.egg-info/SOURCES.txt'
